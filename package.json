@@ -1,6 +1,6 @@
 {
   "name": "language-aspx",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": true,
   "description": "Language file for ASP.NET Web Forms files (aspx, ascx, ashx)",
   "repository": "https://github.com/jbalboni/atom-language-aspx",
@@ -8,6 +8,5 @@
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
