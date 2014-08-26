@@ -1,6 +1,7 @@
 'fileTypes': [
   'aspx',
-  'ascx'
+  'ascx',
+  'master'
 ]
 'name': 'Web Form/Control (C#)'
 'patterns': [
