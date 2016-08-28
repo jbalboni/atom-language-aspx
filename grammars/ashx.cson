@@ -1,5 +1,6 @@
 'fileTypes': [
-  'ashx'
+  'ashx',
+  'asax'
 ]
 'name': 'Web Handler (C#)'
 'patterns': [
