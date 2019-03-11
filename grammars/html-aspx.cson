@@ -6,7 +6,7 @@
 'name': 'Web Form/Control (C#)'
 'patterns': [
   {
-    'begin': '<%[\=\# ]'
+    'begin': '<%[\=\# |\n]'
     'beginCaptures':
       '0':
         'name': 'punctuation.section.embedded.begin.aspx'
